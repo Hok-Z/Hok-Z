@@ -11,7 +11,7 @@
   <a href="https://twitter.com/Z_Hokzii" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="discord.com/users/130768926077485056" target="_blank">
+  <a href="https://discord.com/users/130768926077485056" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://codepen.io/HokZ" target="_blank">
